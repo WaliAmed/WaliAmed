@@ -10,7 +10,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working as a full stack javascript developer at Numu Pakistan.<br>🌱 I’m currently learning new Next Js 13 and server components.
-
+<br>👯 I’m looking to collaborate on **OpenSource Projects** --><br>
+📫 How to reach me **https://www.linkedin.com/in/wali-ahmed-vd/**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wali-ahmed-vd) 
