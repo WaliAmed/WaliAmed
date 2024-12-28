@@ -8,9 +8,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wali</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-# 💫 About Me:
-🔭 I’m currently working as a full stack javascript developer.
-<br>👯 I’m looking to collaborate on **OpenSource Projects**<br>
+# 💫 About Me:<br>
+🚀 Full Stack Developer with 4+ years of experience building scalable web applications and APIs.<br>
+✨ Proficient in Node.js, NestJS, and Laravel for backend development.<br>
+🎨 Skilled in React.js and Next.js for creating modern and responsive frontend interfaces.<br>
+⚡ Adaptable to any JavaScript framework—I thrive in learning and working with new technologies.<br>
+
+🔭 I’m currently working as a Full Stack JavaScript Developer.<br>
+🤝 Open to collaborating on Open Source Projects and innovative ideas.<br>
 📫 How to reach me **https://www.linkedin.com/in/wali-ahmed-vd/**<br>
 💻 My portfolio **https://wali-dev.vercel.app**
 
@@ -28,7 +33,7 @@
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
 ### Backend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
